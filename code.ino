@@ -3,7 +3,7 @@
 #include <Adafruit_ADXL345_U.h>
 Adafruit_ADXL345_Unified accel = Adafruit_ADXL345_Unified();
 #include <TinyGPS++.h>
-String phone_no1 = "+919390239329";
+String phone_no1 = "+91**********";
 TinyGPSPlus gps;
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(2,3,4,5,6,7);
